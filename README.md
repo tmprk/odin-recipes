@@ -12,3 +12,12 @@ The will continue to be revised throughout the fundamentals course, where CSS an
 2. Be able to structure a barebones web project by organizing other `.html` files and static assets as well as how to link to them by accessing child or parent directories in the `href`.
 
 # Screenshots
+<p align="center">
+  <img src="./screenshots/front_page.png" width=""/>
+  <img src="./screenshots/alfredo_bake.png" width=""/> 
+  <img src="./screenshots/chili.png" width=""/>
+</p>
+
+Full recipe example 1             |  Full recipe example 2
+:-------------------------:|:-------------------------:
+![](./screenshots/alfredo_bake_long.png)  |  ![](./screenshots/chili_long.png)
